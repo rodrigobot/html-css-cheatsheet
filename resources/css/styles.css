@@ -1,0 +1,30 @@
+body {
+    background-color: lightgray;
+}
+h1 {
+    text-align: center;
+}
+
+h2 {
+    margin: 50px auto 20px;
+    text-align: center;
+    color: fuchsia;
+}
+
+table {
+    margin: 0px auto;
+    border: darkorchid solid 3px;
+    width: 650px;
+}
+
+th {
+    background-color: violet;
+}
+
+td {
+    border-top: darkorchid solid 1px;
+}
+
+.tag {
+    background-color: beige;
+}
